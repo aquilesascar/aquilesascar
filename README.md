@@ -1,5 +1,3 @@
-<img src = "giphy.gif" width = "325px"
-
 # 👋 Welcome to My GitHub!
 <div align="center">
   <table>
