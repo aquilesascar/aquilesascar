@@ -14,7 +14,7 @@
 
 
 ## 👀 About Me
-Hello! I'm a **Systems Information student** passionate about technology and exploring the endless possibilities it brings.  
+Hey! I'm a **Systems Information student** passionate about technology and exploring the endless possibilities it brings.  
 Currently, I'm honing my skills in programming, data analysis, and software development.  
 I'm eager to collaborate on projects, learn new technologies, and grow in this dynamic field.
 
@@ -43,11 +43,10 @@ I'm eager to collaborate on projects, learn new technologies, and grow in this d
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aquilesascar)    [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aquilesascar)  [![GitHub Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aquilesascar)  [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ascaraquiles@gmail.com)  
 
 
-Let's build something amazing together! 🚀
 - **Email:** ascaraquiles@gmail.com
 - **LinkedIn:** [Aquiles Ascar](https://linkedin.com/in/aquilesascar)  
 
-Feel free to explore my repositories, and don't hesitate to reach out for collaborations or discussions. Let's build something great together!
+Feel free to explore my repositories, and don't hesitate to reach out for collaborations or discussions. Let's build something great together! 🚀
 
 
 
