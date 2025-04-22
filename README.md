@@ -3,9 +3,6 @@
   <table>
     <tr>
       <td style="border: none;">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquilesascar&show_icons=true&theme=dark&count_private=true" alt="Top Languages"/>
-      </td>
-      <td style="border: none;">
         <img height="200em" src="https://github-readme-stats.vercel.app/api?username=aquilesascar&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
       </td>
     </tr>
